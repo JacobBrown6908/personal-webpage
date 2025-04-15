@@ -13,10 +13,10 @@ website:
       - href: resume.qmd
         text: Resume
     right:
-      - href: https://github.com/JacobBrown6908
-        text: "<i class='fab fa-github'></i> GitHub"
-      - href: https://www.linkedin.com/in/jacob-brown-9230582aa/
-        text: "<i class='fab fa-linkedin'></i> LinkedIn"
+      - href: "https://www.linkedin.com/in/jacob-brown-9230582aa/"
+        icon: LinkedIn
+      - href: "https://github.com/JacobBrown6908"
+        icon: github
 
 
 format:
