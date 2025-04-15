@@ -2,12 +2,18 @@ project:
   type: website
 
 website:
-  title: "personal webpage"
+  title: "Coding and Curiosity"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Jacob
+      - href: resume.pdf
+        text: Resume
+        target: _blank
+      - href: resume.qmd
+        text: Resume test
 
 format:
   html:
