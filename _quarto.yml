@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About Jacob
-      - href: resume.pdf
+      - href: resume.docx
         text: Resume
         target: _blank
       - href: resume.qmd
