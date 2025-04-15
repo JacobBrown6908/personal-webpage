@@ -10,11 +10,14 @@ website:
         text: Home
       - href: about.qmd
         text: About Jacob
-      - href: resume.docx
-        text: Resume
-        target: _blank
       - href: resume.qmd
-        text: Resume test
+        text: Resume
+    right:
+      - href: https://github.com/JacobBrown6908
+        text: "<i class='fab fa-github'></i> GitHub"
+      - href: https://www.linkedin.com/in/jacob-brown-9230582aa/
+        text: "<i class='fab fa-linkedin'></i> LinkedIn"
+
 
 format:
   html:

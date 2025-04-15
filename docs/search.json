@@ -2,9 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Jacob Brown",
+    "title": "Jacob Brown",
     "section": "",
-    "text": "About this site"
+    "text": "I am Jacob Brown, a Data Scientist who enjoys mixing analytics and data wrangling with AI and Machine Learning. I also, love working with messy data sets an d trying to find the hidden jems."
+  },
+  {
+    "objectID": "about.html#current-projects-learning-goals-skills",
+    "href": "about.html#current-projects-learning-goals-skills",
+    "title": "Jacob Brown",
+    "section": "Current Projects, Learning Goals, Skills",
+    "text": "Current Projects, Learning Goals, Skills\n\nI am currenlty work on a Facail Regonistion ML model, I am trying to"
   },
   {
     "objectID": "index.html",
