@@ -14,7 +14,7 @@ website:
         text: Resume
     right:
       - href: "https://www.linkedin.com/in/jacob-brown-9230582aa/"
-        icon: LinkedIn
+        icon: linkedin
       - href: "https://github.com/JacobBrown6908"
         icon: github
 
