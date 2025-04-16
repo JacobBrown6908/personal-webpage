@@ -21,10 +21,24 @@
     "text": "This section is a display of all my projects that I have worked on in the persurt of bettering my skills."
   },
   {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
+    "objectID": "index.html#projects-in-r",
+    "href": "index.html#projects-in-r",
     "title": "Jacob Brown",
-    "section": "Projects",
-    "text": "Projects\n\n\n \n\nAirline Ticket Pricing\n\nAn analysis of airline ticket pricing trends using statistical methods.\nDate: March 2025 - April 2025"
+    "section": "Projects in R",
+    "text": "Projects in R\n\n\n \n\nAirline Ticket Pricing\n\nAn analysis of airline ticket pricing trends using statistical methods in R.\nDate: March 2025 - April 2025"
+  },
+  {
+    "objectID": "index.html#projects-in-python",
+    "href": "index.html#projects-in-python",
+    "title": "Jacob Brown",
+    "section": "Projects in Python",
+    "text": "Projects in Python\n\n\n \n\nFacial Recognition\n\nA machine learning model that adaptively adjusts its code to escape \nlocal minima and correctly identify images it has not seen before.\nDate: January 2025 - Present"
+  },
+  {
+    "objectID": "index.html#projects-in-sql",
+    "href": "index.html#projects-in-sql",
+    "title": "Jacob Brown",
+    "section": "Projects in SQL",
+    "text": "Projects in SQL"
   }
 ]

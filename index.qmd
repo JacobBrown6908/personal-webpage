@@ -5,12 +5,12 @@ css: styles.css
 
 This section is a display of all my projects that I have worked on in the persurt of bettering my skills.
 
-## Projects
+## Projects in R
 
 ::: {=html}
 <div class="project">
   <a href="Stats 425/final.html" class="project-link">
-    <img src="Stats 425/airline.jpg" alt="Airline Ticket Pricing" class="project-image" />
+    <img src="Stats 425/airline.png" alt="Airline Ticket Pricing" class="project-image" />
     <h3>Airline Ticket Pricing</h3>
 An analysis of airline ticket pricing trends using statistical methods in R.
     
@@ -20,4 +20,31 @@ An analysis of airline ticket pricing trends using statistical methods in R.
 :::
 
 
+
+## Projects in Python
+
+:::{.project}
+<div class="project">
+  <a href="https://cnnfacialrecgonistion.streamlit.app/" class="project-link" target="_blank">
+    <img src="Facial recognistion/face.avif" alt="Facial Recognition Software" class="project-image" />
+    <h3>Facial Recognition</h3>
+    A machine learning model that adaptively adjusts its code to escape 
+    local minima and correctly identify images it has not seen before.
+
+**Date:** January 2025 - Present 
+</a>
+</div>
+:::
+
+
+
+
+
+
+
+
+
+
+
+## Projects in SQL
 
