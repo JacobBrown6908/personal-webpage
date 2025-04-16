@@ -2,6 +2,12 @@
 title: "Jacob Brown"
 ---
 
-This is a Quarto website.
+This section is a display of all my projects that I have worked on in the persurt of bettering my skills.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div class="project">
+  <a href="Stats 425/final.html" class="project-link">
+    <img src="Stats 425/pairline.jpg" alt="Airline Ticket Pricing" class="project-image" />
+    <h3>Airline Ticket Pricing</h3>
+    <p>An analysis of airline ticket pricing trends using statistical methods.</p>
+  </a>
+</div>
