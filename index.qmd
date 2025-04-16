@@ -1,8 +1,11 @@
 ---
 title: "Jacob Brown"
+css: styles.css
 ---
 
 This section is a display of all my projects that I have worked on in the persurt of bettering my skills.
+
+## Projects
 
 <div class="project">
   <a href="Stats 425/final.html" class="project-link">
