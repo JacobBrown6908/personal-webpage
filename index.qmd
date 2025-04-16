@@ -7,11 +7,17 @@ This section is a display of all my projects that I have worked on in the persur
 
 ## Projects
 
+::: {=html}
 <div class="project">
   <a href="Stats 425/final.html" class="project-link">
-    <img src="Stats 425/pairline.jpg" alt="Airline Ticket Pricing" class="project-image" />
+    <img src="Stats 425/airline.jpg" alt="Airline Ticket Pricing" class="project-image" />
     <h3>Airline Ticket Pricing</h3>
-    <p>An analysis of airline ticket pricing trends using statistical methods.</p>
-    <p><strong>Date:</strong> March 2025 - April 2025</p>
+An analysis of airline ticket pricing trends using statistical methods in R.
+    
+**Date:** March 2025 - April 2025
   </a>
 </div>
+:::
+
+
+
