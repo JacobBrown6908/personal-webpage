@@ -21,6 +21,8 @@ An analysis of airline ticket pricing trends using statistical methods in R.
 
 
 
+
+
 ## Projects in Python
 
 :::{.project}
@@ -37,7 +39,19 @@ An analysis of airline ticket pricing trends using statistical methods in R.
 :::
 
 
+:::{.project}
+<div class="project">
+  <a href="https://jacobbrown6908.github.io/AI_ChatBot_BYU-I/" class="project-link" target="_blank">
+    <img src="Chat Bot/ChatBot.png" alt="Chat Bot Tutor" class="project-image" />
+    <h3>Facial Recognition</h3>
+    Leveraging Retrieval-Augmented Generation (RAG) to deliver
+    personalized, course-specific support — designed to enhance
+    learning outcomes and promote academic success.
 
+**Date:** January 2025 - April 2025
+</a>
+</div>
+:::
 
 
 
@@ -47,4 +61,13 @@ An analysis of airline ticket pricing trends using statistical methods in R.
 
 
 ## Projects in SQL
+
+
+
+
+
+
+
+
+
 
