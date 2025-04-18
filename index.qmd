@@ -26,21 +26,18 @@ minima and correctly identify images it has not seen before.
 
 ## Projects in Python
 
-::: {.project}
-
 <div class="project"> <a href="https://cnnfacialrecgonistion.streamlit.app/" class="project-link" target="_blank"> <img src="Facial recognistion/face.avif" alt="Facial Recognition Software" class="project-image" /> <h3>Facial Recognition</h3> A machine learning model that adaptively adjusts its code 
 to escape local minima and correctly identify images it has not seen before. 
 
 **Date:** January 2025 - April 2025
- </a> </div> :::
+ </a> </div> 
 
 
-::: {.project}
 <div class="project"> <a href="https://jacobbrown6908.github.io/AI_ChatBot_BYU-I/" class="project-link" target="_blank"> <img src="Chat Bot/ChatBot.png" alt="Chat Bot Tutor" class="project-image" /> <h3>Chat Bot Tutor</h3> 
 Leveraging Retrieval-Augmented Generation (RAG) to deliver personalized,
 course-specific support — designed to enhance learning outcomes and promote
 academic success. 
 
 **Date:** January 2025 - Present 
- </a> </div> :::
+ </a> </div> 
 
