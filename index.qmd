@@ -3,7 +3,7 @@ title: "Jacob Brown"
 css: styles.css
 ---
 
-This section is a display of all my projects that I have worked on in the persurt of bettering my skills.
+This section is a display of all my projects that I have worked on in the persurt of bettering my skills, with projects in R, Python, and SQL.
 
 ## Projects in R
 
@@ -12,8 +12,9 @@ This section is a display of all my projects that I have worked on in the persur
   <a href="Stats 425/final.html" class="project-link">
     <img src="Stats 425/airline.png" alt="Airline Ticket Pricing" class="project-image" />
     <h3>Airline Ticket Pricing</h3>
-An analysis of airline ticket pricing trends using statistical methods in R.
-    
+A machine learning model that adaptively adjusts its code to escape local
+minima and correctly identify images it has not seen before.
+
 **Date:** March 2025 - April 2025
   </a>
 </div>
@@ -25,49 +26,21 @@ An analysis of airline ticket pricing trends using statistical methods in R.
 
 ## Projects in Python
 
-:::{.project}
-<div class="project">
-  <a href="https://cnnfacialrecgonistion.streamlit.app/" class="project-link" target="_blank">
-    <img src="Facial recognistion/face.avif" alt="Facial Recognition Software" class="project-image" />
-    <h3>Facial Recognition</h3>
-    A machine learning model that adaptively adjusts its code to escape 
-    local minima and correctly identify images it has not seen before.
+::: {.project}
 
-**Date:** January 2025 - Present 
-</a>
-</div>
-:::
-
-
-:::{.project}
-<div class="project">
-  <a href="https://jacobbrown6908.github.io/AI_ChatBot_BYU-I/" class="project-link" target="_blank">
-    <img src="Chat Bot/ChatBot.png" alt="Chat Bot Tutor" class="project-image" />
-    <h3>Facial Recognition</h3>
-    Leveraging Retrieval-Augmented Generation (RAG) to deliver
-    personalized, course-specific support — designed to enhance
-    learning outcomes and promote academic success.
+<div class="project"> <a href="https://cnnfacialrecgonistion.streamlit.app/" class="project-link" target="_blank"> <img src="Facial recognistion/face.avif" alt="Facial Recognition Software" class="project-image" /> <h3>Facial Recognition</h3> A machine learning model that adaptively adjusts its code 
+to escape local minima and correctly identify images it has not seen before. 
 
 **Date:** January 2025 - April 2025
-</a>
-</div>
-:::
+ </a> </div> :::
 
 
+::: {.project}
+<div class="project"> <a href="https://jacobbrown6908.github.io/AI_ChatBot_BYU-I/" class="project-link" target="_blank"> <img src="Chat Bot/ChatBot.png" alt="Chat Bot Tutor" class="project-image" /> <h3>Chat Bot Tutor</h3> 
+Leveraging Retrieval-Augmented Generation (RAG) to deliver personalized,
+course-specific support — designed to enhance learning outcomes and promote
+academic success. 
 
-
-
-
-
-
-## Projects in SQL
-
-
-
-
-
-
-
-
-
+**Date:** January 2025 - Present 
+ </a> </div> :::
 

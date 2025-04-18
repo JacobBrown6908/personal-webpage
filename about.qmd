@@ -3,10 +3,13 @@ title: "Jacob Brown"
 Subtitle: "Data Scientists"
 ---
 
-I am Jacob Brown, a Data Scientist who enjoys mixing analytics and data wrangling with AI and Machine Learning. I also, love working with messy data sets an d trying to find the hidden jems.
+I am Jacob Brown, a Data Scientist who enjoys combining analytics and data wrangling with AI and Machine Learning. I also love working with messy datasets and trying to find the hidden gems.
+
 
 ## Current Projects, Learning Goals, Skills
 
-- I am currenlty work on a Facail Regonistion ML model, I am trying to 
+- I am currently working on my Facial Recognition ML model. I'm trying to build a front-end implementation using Streamlit.
 
-- >
+- I'm currently working on analytics and front-end development with cloud platforms like Azure, Databricks, and AWS.
+
+- I am also futher my skills with Bash and JavaScript.

@@ -462,25 +462,28 @@ be accurate enough to save my money and see this amazing world.</p>
 </div>
 <div id="model" class="section level4">
 <h4>Model</h4>
-<p><span class="math display">\[
-\underbrace{y_i}_{\text{Ticket Price}} =
-\overbrace{\beta_0}^\text{Intercept} +
-\beta_1*\overbrace{x_i}^\text{duration} +
-\beta_2*\overbrace{x_i^2}^\text{duration} +
-\beta_3*\overbrace{x_i}^\text{Class} +
-\beta_4*\overbrace{x_i}^\text{Stops} +
-\beta_5*\overbrace{x_i^2}^\text{days_left} +
-\beta_6*\overbrace{x_i}^\text{Class} * \overbrace{x_i}^\text{duration} +
-\beta_7*\overbrace{x_i}^\text{Class} * \overbrace{x_i^2}^\text{duration}
-+
-\beta_8*\overbrace{x_i}^\text{Class} * \overbrace{x_i^3}^\text{duration}
-+
-\beta_9*\overbrace{x_i}^\text{Class} * \overbrace{x_i}^\text{days_left}
-+
-\beta_10*\overbrace{x_i}^\text{duration} * \overbrace{x_i}^\text{stops}
-+
-\beta_11*\overbrace{x_i}^\text{days_left} * \overbrace{x_i}^\text{stops}
-\]</span></p>
+<p>$$ <span class="math display">\[\begin{align*}
+\underbrace{y_i}_{\text{Ticket Price}} &amp;=
+\overbrace{\beta_0}^{\text{Intercept}} +
+\beta_1 \overbrace{x_i}^{\text{duration}} +
+\beta_2 \overbrace{x_i^2}^{\text{duration}} +
+\beta_3 \overbrace{x_i}^{\text{Class}} +
+\beta_4 \overbrace{x_i}^{\text{Stops}}+
+\beta_5 \overbrace{x_i^2}^{\text{days_left}} \\
+&amp;\quad+ \beta_6 \overbrace{x_i}^{\text{Class}} \cdot
+\overbrace{x_i}^{\text{duration}} +
+\beta_7 \overbrace{x_i}^{\text{Class}} \cdot
+\overbrace{x_i^2}^{\text{duration}}
++ \beta_8 \overbrace{x_i}^{\text{Class}} \cdot
+\overbrace{x_i^3}^{\text{duration}} +
+\beta_9 \overbrace{x_i}^{\text{Class}} \cdot
+\overbrace{x_i}^{\text{days_left}} \\
+&amp;\quad + \beta_{10} \overbrace{x_i}^{\text{duration}} \cdot
+\overbrace{x_i}^{\text{stops}} +
+\beta_{11} \overbrace{x_i}^{\text{days_left}} \cdot
+\overbrace{x_i}^{\text{stops}}
+\end{align*}\]</span></p>
+<p>$$</p>
 <div id="spliting-data-in-test-and-train" class="section level5">
 <h5>Spliting Data in Test and Train</h5>
 <pre class="r"><code>set.seed(117)
