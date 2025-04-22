@@ -1,10 +1,15 @@
 ---
 title: "Jacob Brown"
-Subtitle: "Data Scientists"
+subtitle: "Data Scientist"
 ---
 
-I am Jacob Brown, a Data Scientist who enjoys combining analytics and data wrangling with AI and Machine Learning. I also love working with messy datasets and trying to find the hidden gems.
+<div style="text-align: center;">
+  <img src="photos/Jacob brown-2.jpg" alt="My photo" style="width:150px; border-radius:50%;">
 
+
+
+I am Jacob Brown, a Data Scientist who enjoys combining analytics and data wrangling with AI and Machine Learning. I also love working with messy datasets and trying to find the hidden gems.
+</div>
 
 ## Current Projects, Learning Goals, Skills
 
@@ -13,3 +18,4 @@ I am Jacob Brown, a Data Scientist who enjoys combining analytics and data wrang
 - I'm currently working on analytics and front-end development with cloud platforms like Azure, Databricks, and AWS.
 
 - I am also futher my skills with Bash and JavaScript.
+
