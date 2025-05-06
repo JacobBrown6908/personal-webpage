@@ -42,3 +42,13 @@ academic success.
 **Date:** January 2025 - Present 
  </a> </div> 
 
+
+<div class="project"> <a href="https://appchallengecstore-bccfjqj2gnwvdcydhycp3o.streamlit.app/" class="project-link" target="_blank"> <img src="C-Store/C-Store.jpg" alt="Idaho Convense Store Dash Board" class="project-image" /> <h3>Convencse Store Dash Board</h3>  
+
+ An interactive Streamlit dashboard that visualizes and analyzes sales, traffic patterns, and inventory trends across convenience stores in the
+ Idaho region.
+ Built with Python and Pandas, the tool supports real-time filtering and
+ enables data-driven decision-making for store performance optimization.
+ 
+**Date:** April 2025 
+ </a> </div> 

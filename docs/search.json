@@ -18,20 +18,20 @@
     "href": "index.html",
     "title": "Jacob Brown",
     "section": "",
-    "text": "This section is a display of all my projects that I have worked on in the persurt of bettering my skills, with projects in R, Python, and SQL."
+    "text": "This section displays all the projects I have worked on in the pursuit of improving my skills, featuring work in R, Python, and SQL."
   },
   {
     "objectID": "index.html#projects-in-r",
     "href": "index.html#projects-in-r",
     "title": "Jacob Brown",
     "section": "Projects in R",
-    "text": "Projects in R\n\n\n \n\nAirline Ticket Pricing\n\nA machine learning model that adaptively adjusts its code to escape local minima and correctly identify images it has not seen before.\nDate: March 2025 - April 2025"
+    "text": "Projects in R\n\n\n \n\nAirline Ticket Pricing\n\nA Logistic Regression model was developed to predict \nairline ticket prices based on various factors such as\nClass, Stops, and flight Duration.\nDate: March 2025 - April 2025"
   },
   {
     "objectID": "index.html#projects-in-python",
     "href": "index.html#projects-in-python",
     "title": "Jacob Brown",
     "section": "Projects in Python",
-    "text": "Projects in Python\n\n \n\nFacial Recognition\n\nA machine learning model that adaptively adjusts its code to escape local minima and correctly identify images it has not seen before.\nDate: January 2025 - April 2025 \n\n\n \n\nChat Bot Tutor\n\nLeveraging Retrieval-Augmented Generation (RAG) to deliver personalized, course-specific support — designed to enhance learning outcomes and promote academic success.\nDate: January 2025 - Present"
+    "text": "Projects in Python\n\n \n\nFacial Recognition\n\nA machine learning model that adaptively adjusts its code to escape local minima and correctly identify images it has not seen before.\nDate: January 2025 - April 2025 \n\n\n \n\nChat Bot Tutor\n\nLeveraging Retrieval-Augmented Generation (RAG) to deliver personalized, course-specific support — designed to enhance learning outcomes and promote academic success.\nDate: January 2025 - Present \n\n\n \n\nConvencse Store Dash Board\n\nAn interactive Streamlit dashboard that visualizes and analyzes sales, traffic patterns, and inventory trends across convenience stores in the Idaho region. Built with Python and Pandas, the tool supports real-time filtering and enables data-driven decision-making for store performance optimization. Date: April 2025"
   }
 ]
